@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaTorresG05
-- 👀 I’m interested in Data Science and Control theory
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Control theory and IA.
+- 🌱 I’m currently learning Artificial Vision for Control and Automation processes
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me ... 
 
